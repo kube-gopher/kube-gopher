@@ -1,5 +1,5 @@
 ## Hi there 👋 
-I specialize in cloud-native technologies, with a core focus on Kubernetes, Golang and infrastructure automation.  
+I specialize in cloud-native technologies, with a core focus on Kubernetes, Golang, and infrastructure automation.
 
 - 🔭 Currently working on Kubernetes operators using Kubebuilder、Resource scheduling with Volcano framework.
   
