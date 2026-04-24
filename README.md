@@ -1,10 +1,10 @@
 ## Hi there 👋
-I work on **cloud-native AI inference infrastructure** — the Kubernetes layer that makes LLM serving efficient, observable, and cost-aware at scale.
+I'm a third-year undergraduate student diving deep into cloud-native AI inference infrastructure — focusing on the Kubernetes layer that makes LLM serving efficient, schedulable, and observable at scale.
 
-My technical focus sits at the intersection of **Kubernetes scheduling**, **distributed inference**, and **observability** — specifically the emerging stack around DRA, KAI Scheduler, Grove, llm-d, GAIE, and OpenTelemetry.
+My research sits at the intersection of Kubernetes scheduling, distributed inference, and observability, with hands-on work across KAI Scheduler, Volcano, llm-d, and kthena.
 
-- 🔭 **Building**: an end-to-end observability platform for the cloud-native LLM inference stack (DRA → scheduler → Grove/LWS → llm-d → GAIE), focused on request-level tracing and scheduling explainability
-- 🌱 **Going deep on**: `kubernetes-sigs/gateway-api-inference-extension` · KAI Scheduler internals · OpenTelemetry GenAI semantic conventions
-- 🛠️ **Toolchain**: Go · Kubebuilder · controller-runtime · client-go · Prometheus · OTel Collector
-- 💬 **Happy to talk about**: Kubernetes scheduler framework · DRA and GPU resource management · disaggregated LLM serving · LLM observability
-* 📫 How to reach me: jzlyy68@gmail.com
+🔭 Researching: end-to-end observability for the cloud-native LLM inference stack — from scheduler decisions to inference-layer metrics, with a focus on request tracing and scheduling explainability
+🌱 Going deep on: KAI Scheduler internals · Volcano gang scheduling · llm-d disaggregated serving · kthena · OpenTelemetry GenAI conventions
+🛠️ Toolchain: Go · Kubebuilder · controller-runtime · client-go · Prometheus · OTel Collector
+💬 Happy to talk about: Kubernetes scheduler framework · GPU resource management · disaggregated LLM serving · LLM observability
+📫 Reach me at: jzlyy68@gmail.com
