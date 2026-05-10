@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-I'm an undergraduate engineer working on **cloud-native AI inference infrastructure** — the Kubernetes layer that makes LLM serving schedulable, observable, and production-ready at scale.
+I'm an undergraduate engineer working on **cloud-native AI inference infrastructure** — making LLM serving schedulable, observable, and production-ready on Kubernetes.
 
-- 🔭 **Building:** an open-source observability toolkit for K8s-native LLM serving — bridging scheduler decisions, vLLM internals, and DCGM-level GPU metrics into a unified trace
-- 🌱 **Going deep on:** Kubernetes scheduler framework internals · vLLM scheduler & PagedAttention · disaggregated (PD) serving · OpenTelemetry GenAI conventions
-- 💬 **Happy to chat about:** Kubernetes scheduling for AI workloads · LLM inference observability gaps · the operational reality of running vLLM in production
-- 📫 **Reach me:** jzlyy68@gmail.com
+2 years of SRE background (Prometheus, multi-cloud) — now bringing that operational lens into a stack where GPUs and inference engines are still black boxes.
+
+- 🔭 Building an open-source observability toolkit for K8s-native LLM serving
+- ✍️ Writing at [掘金](#) · [dev.to](#)
+- 📫 jzlyy68@gmail.com
