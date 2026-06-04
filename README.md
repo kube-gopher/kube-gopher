@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm an undergraduate engineer building **cloud-native AI inference infrastructure** — making LLM serving on Kubernetes **declarative, autoscaling, and scale-to-zero**.
+I focus on building **cloud-native AI inference infrastructure** — making LLM serving on Kubernetes **declarative, autoscaling, and scale-to-zero**.
 
 2 years of SRE (Prometheus, multi-cloud) before this — I bring that operational lens to a stack where GPUs and inference engines are still black boxes.
 
